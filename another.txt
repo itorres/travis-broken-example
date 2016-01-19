@@ -3,3 +3,4 @@ let's add another file
 just to check
 
 diff --git a/new.txt b/new.txt
+++ b/c
