@@ -1,1 +1,3 @@
-New file
+Let's remove the original line.
+
+And add some text.
