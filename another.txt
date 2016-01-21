@@ -18,3 +18,14 @@ a bunch
 more
 lines
 hop
+
+let's add
+a couple more lines
+
+just to be
+
+sure
+
+that it triggers
+
+the size change
