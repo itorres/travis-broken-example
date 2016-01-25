@@ -2,5 +2,30 @@ let's add another file
 
 just to check
 
-diff --git a/new.txt b/new.txt
-++ b/c
+A bit more action
+
+Let's pull again
+
+Harder Better
+
+More Even more
+
+one two three four five
+
+
+
+a bunch
+more
+lines
+hop
+
+let's add
+a couple more lines
+
+just to be
+
+sure
+
+that it triggers
+
+the size change
